@@ -40,3 +40,7 @@ npm start
 ```
 
 We have included the Tailwindcss (https://tailwindcss.com/docs/) CSS lib to help you with the style.
+
+## Submit your test
+1. Upload to your github account
+2. Send your links to our hr@seryucargo.com and cc: andri.budianto@seryucargo.com, davis.tannata@seryucargo.com
