@@ -9,7 +9,7 @@ You need to create a simple todo list application that can do the following:
 - Show a sum of all the counter values
 
 ## API URL
-```https://my-json-server.typicode.com/andribudianto/demo/todos```
+```https://dummyjson.com/docs/todos```
 
 ## LoFi
 ![alt text](https://github.com/andribudianto/demo/blob/main/simple_todo_list.png?raw=true)
