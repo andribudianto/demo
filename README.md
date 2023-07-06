@@ -12,7 +12,7 @@ You need to create a simple todo list application that can do the following:
 ```https://dummyjson.com/docs/todos```
 
 ## LoFi
-![alt text](https://github.com/andribudianto/demo/blob/main/sample_todo_list.png?raw=true)
+![alt text](https://github.com/andribudianto/demo/blob/main/simple_todo_list.png?raw=true)
 
 ## notes
 - The design, layout, ux, is all up to you.
